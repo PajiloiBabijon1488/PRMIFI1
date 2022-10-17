@@ -15,8 +15,6 @@ namespace ЧЕРНИКОВ_ДЕНИС
             name = Console.ReadLine();
             Console.WriteLine("Приятно познакомиться. " + name + "!");
 
-         Привет!
-
         }
     }
 }
